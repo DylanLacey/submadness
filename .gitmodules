@@ -1,0 +1,3 @@
+[submodule "subsubmadness"]
+	path = subsubmadness
+	url = git@github.com:DylanLacey/subsubmadness.git
